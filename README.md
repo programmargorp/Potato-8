@@ -1,11 +1,11 @@
 # Potato-8
 Yet another Chip-8 emulator
 
-##Screenshots
+## Screenshots
 <img src="./images/spaceinvaders.png" />
 <img src="./images/tetris.png" />
 
-##Getting Started
+## Getting Started
 This project requires the following:
 + CMake 3.10.2 or newer
 + SDL2
@@ -13,7 +13,7 @@ This project requires the following:
 
 Testing has been done only on Ubuntu 18.04.
 
-##Building and running
+## Building and running
 To build simply run
 ```
 cmake .
@@ -26,9 +26,9 @@ To load and run a rom simply run:
 ```
 Replace rom.rom with a relative path to your rom file.
 
-##Contributing
+## Contributing
 Please open a pull request with any contribution you wish to make.
 
-##Acknowledgements
+## Acknowledgements
 + Cowgod's CHIP-8 reference http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
 + StackOverflow
